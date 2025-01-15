@@ -91,8 +91,6 @@ items:
       - name: Кабинет учителя
         items: 
           - name: Обзор модуля
-            href: edu_mod/teacher_open_info.md
-          - name: Настройка после развертывания
-            href:    
+            href: edu_mod/teacher_open_info.md  
       - name: Отчёты
         href: edu_mod/report.md     
