@@ -36,3 +36,16 @@ items:
     href: about_mini.md
   - name: Начало работы
     href: work.md
+  - name: Инструкции
+    expanded: false 
+    href: edu/test.md
+    items:
+      - name: Редактирование Учебного портала
+        href: 
+        items:
+          - name: Favicon/Footer
+            items:   
+               - name: Редактирование фавикона
+                 href: edu/favicon.md
+               - name: Редактирование футера 
+                 href: edu/footer.md
