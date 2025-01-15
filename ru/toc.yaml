@@ -38,7 +38,7 @@ items:
     href: work.md
   - name: Инструкции
     expanded: false 
-    href: edu/test.md
+    href:
     items:
       - name: Редактирование Учебного портала
         href: 
