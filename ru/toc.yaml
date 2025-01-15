@@ -48,7 +48,6 @@ items:
     href: manual/new_course2.md
   - name: Видео
     href: manual/new_video_course.md
-  - name: Модули Учебного портала
   - name: Обзор модуля Оценка 360
     href: edu_mod/360_docs_info.md
   - name: Настройка после развертывания
