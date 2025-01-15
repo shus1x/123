@@ -35,7 +35,7 @@ items:
   - name: Обзор Учебного портала
     href: about_mini.md
   - name: Обзор Учебного портала (тест)
-    href: index test.yaml  
+    href: indextest.yaml  
   - name: Начало работы
     href: work.md
   - name: Инструкции
