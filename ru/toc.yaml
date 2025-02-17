@@ -32,12 +32,8 @@ items:
   - name: Кабинет учителя. Ответственный - Администратор
     labeled: true
     items:    
-      - name: Разработка компетенций
-        href: 6.md
-      - name: Учебных планов
-        href: 7.md
-      - name: Назначение плана
-        href: 8.md
+      - name: КУ
+        href: 678.md
   - name: Кабинет адаптации.
     labeled: true
     items:    
