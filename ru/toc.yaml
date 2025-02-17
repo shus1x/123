@@ -1,75 +1,56 @@
-title: Шаблон Документации
+title: Дорожная карта
 href: index.yaml
-
-analytics:
-  text: 'Мы используем файлы cookie, чтобы вы могли наилучшим образом пользоваться нашим веб-сайтом. Если вы продолжаете использовать наш веб-сайт, мы полагаем, что вы согласны с таким использованием.'
-  buttons:
-    accept:
-      text: "Ок"
-      theme: "accent"
-      size: "xl"
 
 navigation:
   logo:
     dark:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
+      icon: 
     light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
+      icon: 
   header:
     leftItems:
-      - text: "Оглавление"
-        type: "link"
-        url: "../ru"
-      - text: "Помощь"
-        type: "link"
-        url: "./help"
     rightItems:
       - type: 'controls'
 
 items: 
-  - name: Help
-    href: help.md
-  - name: Rules
-    href: rules.md
-  - name: Обзор Учебного портала
-    href: about_mini.md
-  - name: Обзор Учебного портала (тест)
-    href: indextest.yaml  
-  - name: Начало работы
-    href: work.md
-  - name: Инструкции
-    href: edu/test.md
-  - name: Редактирование фавикона
-    href: edu/favicon.md
-  - name: Редактирование футера 
-    href: edu/footer.md
-  - name: Создание курса
-    href: manual/new_course1.md
-  - name: Элементы курса
-    href: manual/new_course2.md
-  - name: Видео
-    href: manual/new_video_course.md
-  - name: Обзор модуля Оценка 360
-    href: edu_mod/360_docs_info.md
-  - name: Настройка после развертывания
-    href: edu_mod/360_open.md
-  - name: Обзор модуля Кабинет руководителя
-    href: edu_mod/ipr_docs_info.md
-  - name: Настройка после развертывания
-    href: edu_mod/ipr_open.md
-  - name: Обзор модуля Кабинет адаптации
-    href: edu_mod/adaptation_docs_info.md
-  - name: Настройка после развертывания 
-    href: edu_mod/adaptation_open.md
-  - name: Обзор модуля Библиотека
-    href: edu_mod/lib_docs_info.md
-  - name: Настройка после развертывания 
-    href: edu_mod/lib_open.md
-  - name: Создание/Добавление книги
-    href: manual/new_book.md    
-  - name: Обзор модуля Кабинет учителя
-    href: edu_mod/teacher_open_info.md 
-  - name: Отчёты
-    href: edu_mod/report.md          
-  - name: Новое
-    href: edu/123.md 
+  - name: Учебный портал. Ответственный - Администратор
+    labeled: true
+    items:
+      - name: Создание пользователей
+        href: 
+      - name: Назначений ролей
+        href: 
+  - name: Материалы обучения. Ответственный - Учебный центр
+    labeled: true
+      - name: Разработка курсов
+        href:    
+      - name: Загрузка книг
+        href:
+      - name: Видеоматериалов
+        href:
+  - name: Кабинет учителя. Ответственный - Администратор
+    labeled: true
+      - name: Разработка компетенций
+        href:
+      - name: Учебных планов
+        href:
+      - name: Назначение плана
+        href:
+  - name: Кабинет адаптации.
+    labeled: true
+      - name: Настройка шаблонов адаптации и разработка плана. Ответственный - HR
+        href:
+      - name: Назначение адаптанту плана. Ответственный - Руководитель, Наставник
+        href:
+  - name: Оценка 360.
+    labeled: true
+      - name: Разработка матрицы оценок.
+        href:
+      - name: Запуск оценки
+        href:
+  - name: Кабинет руководителя. Ответственный - Администратор
+    labeled: true
+      - name: Настройка отчетного периода
+        href:
+      - name: Создание ИПР. Ответственный - Руководитель
+        href:
