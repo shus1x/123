@@ -17,40 +17,45 @@ items:
     labeled: true
     items:
       - name: Создание пользователей
-        href: 
+        href: 1.md
       - name: Назначений ролей
-        href: 
+        href: 2.md
   - name: Материалы обучения. Ответственный - Учебный центр
     labeled: true
+    items:    
       - name: Разработка курсов
-        href:    
+        href: 3.md   
       - name: Загрузка книг
-        href:
+        href: 4.md
       - name: Видеоматериалов
-        href:
+        href: 5.md
   - name: Кабинет учителя. Ответственный - Администратор
     labeled: true
+    items:    
       - name: Разработка компетенций
-        href:
+        href: 6.md
       - name: Учебных планов
-        href:
+        href: 7.md
       - name: Назначение плана
-        href:
+        href: 8.md
   - name: Кабинет адаптации.
     labeled: true
+    items:    
       - name: Настройка шаблонов адаптации и разработка плана. Ответственный - HR
-        href:
+        href: 9.md
       - name: Назначение адаптанту плана. Ответственный - Руководитель, Наставник
-        href:
+        href: 10.md
   - name: Оценка 360.
     labeled: true
+    items:    
       - name: Разработка матрицы оценок.
-        href:
+        href: 11.md
       - name: Запуск оценки
-        href:
+        href: 12.md
   - name: Кабинет руководителя. Ответственный - Администратор
     labeled: true
+    items:    
       - name: Настройка отчетного периода
-        href:
+        href: 13.md
       - name: Создание ИПР. Ответственный - Руководитель
-        href:
+        href: 14.md
